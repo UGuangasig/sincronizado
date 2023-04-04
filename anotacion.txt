@@ -2,4 +2,8 @@ Estoy queriendo funcionas
 hola mundo
 que tal todo???
 probando a ver si se puede subir al githuub
+<<<<<<< HEAD
 probando a subir desde la rama modificacion al github
+=======
+subirneod la segunda parte
+>>>>>>> modificacion
